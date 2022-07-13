@@ -21,7 +21,8 @@ function updateSavings(value){
 
   if(newValue > targetRich){
     jsConfetti.addConfetti()
-    alert("คุณรวยแล้ว")
+    
+    
   }
 }
 
