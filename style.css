@@ -1,4 +1,4 @@
-body{
+body {
   background-color: rgb(210, 208, 208);
 }
 h1 {
@@ -7,25 +7,22 @@ h1 {
   font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
   font-size: 40px;
 }
-p{
+p {
   text-align: center;
   color: rgb(0, 0, 0); 
   font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
   font-size: 20px;
 }
-#savings{
+#savings {
  text-align: center;
  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
 font-size: 40px;
 color: rgb(195, 0, 255);
- 
 }
-
 #wallet{
   text-align: center;
 }
-
-#btn-coin  {
+#btn-coin {
   background: #e6a640;
   border: 1px solid #e6a640;
   border-radius: 6px;
@@ -49,10 +46,10 @@ color: rgb(195, 0, 255);
   touch-action: manipulation;
   vertical-align: middle;
 }
-.btn_container{
+.btn_container {
   text-align: center;
 }
-#btn-bill  {
+#btn-bill {
   background: #1c4907;
   border: 1px solid #1c4907;
   border-radius: 6px;
@@ -76,4 +73,3 @@ color: rgb(195, 0, 255);
   touch-action: manipulation;
   vertical-align: middle;
 }
-
